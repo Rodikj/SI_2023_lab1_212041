@@ -1,0 +1,35 @@
+commit 31fecf7bc94ac7043d9a7243ee6d2673c0e7575f (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Rodikj <ivicar159@gmail.com>
+Date:   Sun Apr 9 16:24:45 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit c1b695831851e82014e177f76ef17e76add99150
+Merge: ca75d91 74ee9cd
+Author: Rodikj <ivicar159@gmail.com>
+Date:   Sun Apr 9 16:57:55 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 74ee9cd0df903fb8dc7d0e6e4fb80b6f991dee7d (origin/bug2, bug2)
+Author: Rodikj <ivicar159@gmail.com>
+Date:   Sun Apr 9 16:23:21 2023 +0200
+
+    Fix wrong condition in filterOddNumber
+
+commit ca75d91cb2c6bb0a1f646f2a4cb8461316e5b25d (origin/bug1, bug1)
+Author: Rodikj <ivicar159@gmail.com>
+Date:   Sun Apr 9 16:21:12 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 6e4ee10e0dc58b11ca2c7e335a539b106427f4a5
+Author: Rodikj <ivicar159@gmail.com>
+Date:   Sun Apr 9 15:55:20 2023 +0200
+
+    Add java class
+
+commit 3abbf15011ece7e0de86a1952dac17ce7981829a
+Author: Rodikj <ivicar159@gmail.com>
+Date:   Sun Apr 9 15:44:02 2023 +0200
+
